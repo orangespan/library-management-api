@@ -25,5 +25,16 @@ public class LibraryManagementIntegrationTest {
         //TODO
     }
 
+    @Test
+    public void shouldReturnNoBookAvalResponseWhenNoCopiesToIssue(){
+        //TODO
+    }
+
+    @Test
+    public void shouldReturnNoBookFoundMessageWhenNoBookFound(){
+        //TODO
+    }
+
+
 
 }
